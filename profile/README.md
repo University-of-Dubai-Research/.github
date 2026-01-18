@@ -20,6 +20,21 @@
 ## 🏛️ About Us
 The **University of Dubai Research** organization is the central hub for open-science initiatives, datasets, and code repositories driven by our faculty and research fellows. We bridge the gap between academic theory and practical impact, focusing on solutions that serve Dubai's vision for a smart, sustainable future.
 
+## 🔬 Research Leadership & Principal Investigators
+
+We are driven by a distinguished team of researchers advancing the frontiers of science and technology.
+
+| Name | Role / Project Focus | Researcher Profile |
+| :--- | :--- | :--- |
+| **Dr. Husameldin Mukhtar** | Director of Research | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.ae/citations?user=9zjYkmIAAAAJ&hl=en) |
+| **Prof. Hussain Al-Ahmad** | Provost / Chief Academic Officer | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rC7XggEAAAAJ&hl=en) |
+| **Dr. Nasser Al Muraqab** | Smart Logistics & Aerial Systems | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](INSERT_LINK_HERE) |
+| **Dr. Husameldin Mukhtar** | AI & Wireless Security | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](INSERT_LINK_HERE) |
+| **Dr. Nour Aburaed** | Generative AI in Healthcare | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=E9dGDEEAAAAJ&hl=en) |
+| **Dr. Mohammed Rababa** | Legal Tech & AI Policy | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0cfQaYkAAAAJ&hl=en) |
+| **Prof. Washika Saheem** | Strategic Workforce Mobility | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=32NCHzgAAAAJ&hl=de) |
+| **Dr. Christine Markarian** | Urban Systems & Algorithms | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=49iExRQAAAAJ&hl=en) |
+
 ---
 
 ## 🚀 2026 Strategic Research Initiatives
