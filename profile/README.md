@@ -5,7 +5,7 @@
 # University of Dubai Research
 ### Local Roots. Global Reach.
 
-[![Website](https://img.shields.io/badge/Website-ud.ac.ae-004d40?style=for-the-badge&logo=google-chrome)](https://ud.ac.ae/research/)
+[![Website](https://img.shields.io/badge/Website-ud.ac.ae-004d40?style=for-the-badge&logo=google-chrome)](https://research.ud.ac.ae/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-University%20of%20Dubai-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/school/university-of-dubai/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co/University-of-Dubai)
 
@@ -73,6 +73,33 @@ We are proud to announce our core research tracks for the 2026 cycle, funded by 
 | **[UAE Arabic Legal Text Corpus](https://github.com/University-of-Dubai-Research/arabic-legal-text)** | A curated, machine-readable corpus of UAE laws for NLP & AI training. | `NLP` `JSONL` `Law` |
 
 ---
+
+---
+
+## 📈 Research Impact at a Glance
+
+Our commitment to academic excellence is reflected in the exponential growth of our Scopus-indexed publications.
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'xyChart': { 'plotColorPalette': '004d40' } } } }%%
+xychart-beta
+    title "Scopus-Indexed Publications (5-Year Growth)"
+    x-axis [2020, 2021, 2022, 2023, 2024]
+    y-axis "Publications" 0 --> 300
+    bar [93, 74, 144, 247, 221]
+```
+## 📑 Publication Archive
+
+Explore our peer-reviewed journals and articles by year:
+
+| Year | Volume | Link |
+|------|--------|------|
+| **2024** | 221 Publications | 📂 [View List](https://research.ud.ac.ae/2024-publications/) |
+| **2023** | 247 Publications | 📂 [View List](https://research.ud.ac.ae/2023-publications/) |
+| **2022** | 144 Publications | 📂 [View List](https://research.ud.ac.ae/2022-publications/) |
+| **2021** | 74 Publications | 📂 [View List](https://research.ud.ac.ae/2021-publications/) |
+| **2020** | 93 Publications | 📂 [View List](https://research.ud.ac.ae/2020-publications/) |
+
 
 ## 🤝 Collaborate with Us
 We welcome collaboration from global researchers, industry partners, and government entities.
