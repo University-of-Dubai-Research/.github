@@ -28,7 +28,7 @@ We are driven by a distinguished team of researchers advancing the frontiers of 
 | :--- | :--- | :--- |
 | **Dr. Husameldin Mukhtar** | Director of Research | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.ae/citations?user=9zjYkmIAAAAJ&hl=en) |
 | **Prof. Hussain Al-Ahmad** | Provost / Chief Academic Officer | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rC7XggEAAAAJ&hl=en) |
-| **Dr. Nasser Al Muraqab** | Smart Logistics & Aerial Systems | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](INSERT_LINK_HERE) |
+| **Dr. Nasser Al Muraqab** | Smart Logistics & Aerial Systems | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=793gh_0AAAAJ&hl=en) |
 | **Dr. Husameldin Mukhtar** | AI & Wireless Security | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](INSERT_LINK_HERE) |
 | **Dr. Nour Aburaed** | Generative AI in Healthcare | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=E9dGDEEAAAAJ&hl=en) |
 | **Dr. Mohammed Rababa** | Legal Tech & AI Policy | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0cfQaYkAAAAJ&hl=en) |
