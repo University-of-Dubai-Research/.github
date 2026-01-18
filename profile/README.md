@@ -81,10 +81,10 @@ We are proud to announce our core research tracks for the 2026 cycle, funded by 
 Our commitment to academic excellence is reflected in the exponential growth of our Scopus-indexed publications.
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'xyChart': { 'plotColorPalette': '004d40' } } } }%%
+%%{init: { 'theme': 'default', 'themeVariables': { 'xyChart': { 'plotColorPalette': '#2962ff' } } } }%%
 xychart-beta
     title "Scopus-Indexed Publications (5-Year Growth)"
-    x-axis [2020, 2021, 2022, 2023, 2024]
+    x-axis ["2020 (93)", "2021 (74)", "2022 (144)", "2023 (247)", "2024 (221)"]
     y-axis "Publications" 0 --> 300
     bar [93, 74, 144, 247, 221]
 ```
