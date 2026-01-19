@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://ud.ac.ae/wp-content/uploads/2021/05/logo.png" width="200" alt="University of Dubai Logo" />
+<img src="https://github.com/University-of-Dubai/.github/blob/main/ud-logo.png?raw=true" width="180px" alt="University of Dubai Logo" />
+
+<br>
 
 # University of Dubai Research
 ### Local Roots. Global Reach.
