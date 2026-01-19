@@ -100,6 +100,17 @@ Explore our peer-reviewed journals and articles by year:
 | **2021** | 74 Publications | 📂 [View List](https://research.ud.ac.ae/2021-publications/) |
 | **2020** | 93 Publications | 📂 [View List](https://research.ud.ac.ae/2020-publications/) |
 
+## 💡 Patents & Intellectual Property
+Our faculty are pioneering inventors, securing US and International patents in critical technology sectors.
+
+| Patent Title | Inventor(s) | Patent Number |
+| :--- | :--- | :--- |
+| **Secured & Robust Wireless Communication System**<br>*(Low-latency applications for Smart Cities)* | **Dr. Husameldin Mukhtar**, A. Al-Dweik, et al. | [![US Patent](https://img.shields.io/badge/US_Patent-10,855,450_B1-004d40?style=flat-square&logo=google-scholar&logoColor=white)](https://patents.google.com/patent/US10855450B1/en) |
+| **Transmitting Symbols via Unipolar Signals**<br>*(Advanced Optical Communications)* | **Dr. Diana Dawoud** | [![US Patent](https://img.shields.io/badge/US_Patent-11,451,296-004d40?style=flat-square&logo=google-scholar&logoColor=white)](https://patents.google.com/patent/US11451296B2/en) |
+| **High Efficiency Step Photovoltaic Cells**<br>*(Low-cost Solar Energy Solution)* | **Dr. Sabina Abdul Hadi** | [![Patent App](https://img.shields.io/badge/Patent_App-WO2018075331A1-0077B5?style=flat-square&logo=google-scholar&logoColor=white)](https://patents.google.com/patent/WO2018075331A1/en) |
+
+---
+
 
 ## 🤝 Collaborate with Us
 We welcome collaboration from global researchers, industry partners, and government entities.
